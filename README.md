@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aradhy27
 - 👀 I’m interested in new technologies 
-- 🌱 I’m currently learning python language 
+- 🌱 I’m currently learning database and linux 
 - 📫 How to reach me chhavisinghvi27@gmail.com 
 - 😄 Pronouns: she/her
 
